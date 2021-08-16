@@ -1,2 +1,6 @@
 - dm @pw#1337 if u need help
 - cleans temp files , cache etc
+- run cmd as admin
+- type "go run (drag file into cmd)"
+- press enter wait a few sec
+- done !
